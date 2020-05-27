@@ -1,0 +1,13 @@
+.sidebar {
+  background-color: orange;
+  font-family: roboto;
+  font-weight: bolder;
+  float: right;
+  width: 30%;
+}
+
+.band-image {
+  width: 500px;
+  max-height: 500px;
+  float: left;
+}
