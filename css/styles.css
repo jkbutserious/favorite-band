@@ -16,3 +16,9 @@
   width: 500px;
   max-height: 500px;
 }
+
+.main {
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+  /* margin: 10rem 0 5rem 0; */
+}
